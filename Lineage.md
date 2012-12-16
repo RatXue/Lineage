@@ -1,9 +1,14 @@
+Lineage.md
+==========
+
 Keywords
 --------
+
 Gautama Nagarjuna Chandrakirti Atisha Tsongkhapa Pabongka Trijang Gyatso
 
 Lineage
 -------
+
 ### Gautama Buddha
 Gautama Buddha or Siddhārtha Gautama Buddha (Sanskrit: सिद्धार्थ गौतम बुद्ध; Pali: Siddhattha Gotama) was a spiritual teacher from the Indian subcontinent [note 1], on whose teachings Buddhism was founded.[6]
 
