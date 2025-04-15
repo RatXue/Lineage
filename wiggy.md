@@ -1,4 +1,4 @@
-[Dharma Transmission Lineage](https://github.com/RatXue/Lineage)
+[Dharma Transmission Lineage](https://git.sdf.org/rat/lineage)
 
 This lineage underscores a core aspect of Buddhism: the unbroken transmission of teachings from teacher to disciple, ensuring their [authenticity](https://gurdjieff.work/ae/neologisms/Legominism.htm) and relevance across centuries. Starting with Gautama Buddha, the founder of Buddhism, whose Middle Way teachings laid the groundwork for all that followed, the lineage shows how each figure built upon this foundation, adapting and enriching it for their time and context. It’s a powerful testament to the resilience and adaptability of Buddhist thought.
 
