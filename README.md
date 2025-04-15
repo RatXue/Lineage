@@ -3,4 +3,4 @@ Lineage
 
 Dharma Transmission Lineage
 
-start with Lineage.md
+start with wiggy.md
