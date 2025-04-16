@@ -1,6 +1,3 @@
-Lineage.md
-==========
-
 Keywords
 --------
 
